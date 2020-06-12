@@ -1,5 +1,5 @@
-                                           # Weather-Reporter
-                                                         Version - 1.0
+# Weather-Reporter
+   # Version - 1.0
 
 A Mobile Application that capable of displaying details of real time Temperature and Weather conditions of places across the world.
 
