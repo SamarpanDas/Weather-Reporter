@@ -1,7 +1,12 @@
 # Weather-Reporter
    # Version - 1.0
 
-A Mobile Application that capable of displaying details of real time Temperature and Weather conditions of places across the world.
+Looking for a Light Weight App that brings weather reports from around the world at your finger tips with just a search ?
+
+
+Here's Weather-Reporter, Mobile Application that capable of displaying details of real time Temperature and Weather conditions of places across the world.
+
+The App has a very user friendly interface and occupies minimum storage space on your device.
 
 The app displays
 Temperature of the location in degree Celsius
